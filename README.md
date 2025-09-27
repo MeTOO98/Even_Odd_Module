@@ -15,7 +15,7 @@
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/Even_Odd.git
+git clone https://github.com/MeTOO98/Even_Odd_Module.git
 cd Even_Odd
 ```
 
